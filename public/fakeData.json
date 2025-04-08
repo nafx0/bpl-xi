@@ -1,0 +1,113 @@
+{
+    "players": [
+      {
+        "id": 1,
+        "name": "Virat Kohli",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/398900/398908.jpg",
+        "country": "India",
+        "type": "Batsman",
+        "battingHand": "Right",
+        "price": 1200000
+      },
+      {
+        "id": 2,
+        "name": "Steve Smith",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/396600/396602.jpg",
+        "country": "Australia",
+        "type": "Batsman",
+        "battingHand": "Right",
+        "price": 1100000
+      },
+      {
+        "id": 3,
+        "name": "Shakib Al Hasan",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/390400/390403.jpg",
+        "country": "Bangladesh",
+        "type": "All-Rounder",
+        "battingHand": "Left",
+        "price": 900000
+      },
+      {
+        "id": 4,
+        "name": "Kagiso Rabada",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/393200/393281.jpg",
+        "country": "South Africa",
+        "type": "Bowler",
+        "battingHand": "Right",
+        "price": 850000
+      },
+      {
+        "id": 5,
+        "name": "Ben Stokes",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/393000/393024.jpg",
+        "country": "England",
+        "type": "All-Rounder",
+        "battingHand": "Left",
+        "price": 1000000
+      },
+      {
+        "id": 6,
+        "name": "Rashid Khan",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/398300/398363.jpg",
+        "country": "Afghanistan",
+        "type": "Bowler",
+        "battingHand": "Right",
+        "price": 800000
+      },
+      {
+        "id": 7,
+        "name": "Joe Root",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/397400/397481.jpg",
+        "country": "England",
+        "type": "Batsman",
+        "battingHand": "Right",
+        "price": 950000
+      },
+      {
+        "id": 8,
+        "name": "Mitchell Starc",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/395500/395507.jpg",
+        "country": "Australia",
+        "type": "Bowler",
+        "battingHand": "Left",
+        "price": 870000
+      },
+      {
+        "id": 9,
+        "name": "Hardik Pandya",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/398700/398763.jpg",
+        "country": "India",
+        "type": "All-Rounder",
+        "battingHand": "Right",
+        "price": 950000
+      },
+      {
+        "id": 10,
+        "name": "Kane Williamson",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/397500/397562.jpg",
+        "country": "New Zealand",
+        "type": "Batsman",
+        "battingHand": "Right",
+        "price": 1050000
+      },
+      {
+        "id": 11,
+        "name": "Trent Boult",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/382100/382112.jpg",
+        "country": "New Zealand",
+        "type": "Bowler",
+        "battingHand": "Left",
+        "price": 830000
+      },
+      {
+        "id": 12,
+        "name": "Andre Russell",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/383400/383481.jpg",
+        "country": "West Indies",
+        "type": "All-Rounder",
+        "battingHand": "Right",
+        "price": 980000
+      }
+    ]
+  }
+  
