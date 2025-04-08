@@ -28,7 +28,7 @@ const Hero = ({ handleAddCoin }) => {
 
                 <button 
                     onClick={handleAddCoin} 
-                    className='bg-[#E7FE29] text-black px-4 py-2 sm:px-5 sm:py-3 rounded-xl cursor-pointer font-bold text-sm sm:text-base ring-2 sm:ring-3 md:ring-4 ring-inset ring-black hover:bg-[#d5e722] transition-colors'
+                    className='bg-[#E7FE29] text-black px-4 py-2 sm:px-5 sm:py-3 rounded-xl cursor-pointer font-bold text-sm sm:text-base ring-2 sm:ring-3 md:ring-4 ring-inset ring-black hover:bg-[#d5e722] transition-colors mb-10 md:mb-0'
                 >
                     Claim Free Coins
                 </button>
